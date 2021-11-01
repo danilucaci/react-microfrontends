@@ -1,6 +1,6 @@
 # Webpack 5 Module Federation Boilerplate Demo App
 
-An app made to follow the course on Microfrontends with React.
+An app made to learn how to build Microfrontends with React.
 
 ## Author
 
