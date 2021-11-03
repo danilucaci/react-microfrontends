@@ -10,7 +10,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import MaterialLink from "@material-ui/core/Link";
 import { Link } from "react-router-dom";
-import Header from "./Header";
 
 function Copyright() {
   return (
@@ -69,7 +68,6 @@ export default function Album() {
 
   return (
     <React.Fragment>
-      <Header />
       <main>
         {/* Hero unit */}
         <div className={classes.heroContent}>
